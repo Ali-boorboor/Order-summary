@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'font';
+  src: url('../../fonts/8vIQ7wUr0m80wwYf0QCXZzYzUoTg_T6h.woff2') format('woff2');
+}

@@ -1,6 +1,7 @@
 # Order-summary
 In this little fellow here we have a ordering system,<br> that is designed with HTML & CSS & TAILWIND which is responsive by the way 😎.
-> The output css file got *minified* 🤏.
+> The output css file got *minified* 🤏.<br>
+> Try free demo <a href="https://ali-boorboor.github.io/order-summary/">Here</a>
 ```css
 .used-languages {
   font-family: HTML;
